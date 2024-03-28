@@ -26,4 +26,4 @@ O desafio proposto consistiu em utilizar a ferramenta setoolkit em um ambiente v
 
 ![Alt text](./projeto_phishing.png "Optional title")
 
-Ao abrir o site clonado no navegador utilizando o IP, inseri o email fictício `teste@email.com` e a senha `qwerty1234!`, e conforme consta no resultado, esses dados foram obtidos através do método.
+Ao abrir o site clonado no navegador, inseri o email fictício `teste@email.com` e a senha `qwerty1234!`, e conforme consta no resultado, esses dados foram obtidos através do método.
